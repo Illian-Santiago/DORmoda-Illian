@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## comandos
 
-> - npm run dev
+``` - npm run dev ```
 start vite server
-> - npm run tailwind
+``` - npm run tailwind ```
 start tailwind css 
