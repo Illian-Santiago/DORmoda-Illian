@@ -5,6 +5,16 @@
   text-align: center;
 }
 
+.varela-round-regular {
+  font-family: "Varela Round", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.menu-hover:hover {
+  color: #646cff;
+}
+
 .ani {
 
   animation: myAnim 2s ease 0s 1 normal forwards;
